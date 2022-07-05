@@ -1,0 +1,5 @@
+{
+	"ip":"Hellobhdk.aternos.me",
+	"port": "46210",
+	"name": "Hogalalla"
+}
